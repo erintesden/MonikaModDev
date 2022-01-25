@@ -17747,7 +17747,7 @@ init 5 python:
             eventlabel="monika_last_man",
             category=["literature"],
             prompt="The last man on Earth",
-			pool=True
+            pool=True
             random=False
         )
     )
